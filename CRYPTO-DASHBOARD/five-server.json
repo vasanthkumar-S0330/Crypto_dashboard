@@ -1,0 +1,10 @@
+{
+    "watchOptions": {
+      "ignore": ["node_modules", ".git", "temp-files/*"],
+      "delay": 500
+    },
+    "port": 5500,
+    "browser": "chrome",
+    "open": true
+  }
+  
